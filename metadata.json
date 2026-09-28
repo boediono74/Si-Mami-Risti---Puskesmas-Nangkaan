@@ -1,0 +1,10 @@
+{
+  "name": "Si Mami Risti - Puskesmas Nangkaan Bondowoso",
+  "description": "Aplikasi Pemantauan Ibu Hamil Resiko Tinggi (Si Mami Risti) UPTD Puskesmas Nangkaan Kabupaten Bondowoso dengan integrasi Firebase, Skrining Skor Poedji Rochjati, Pemetaan Desa, dan Register Kohort.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
